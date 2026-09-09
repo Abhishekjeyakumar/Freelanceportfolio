@@ -41,13 +41,10 @@ export function Footer() {
             </ul>
           </div>
         </div>
-      
         <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between">
-          
           <p className="text-gray-500 text-sm">
             © {currentYear} {portfolioData.personalInfo.name}. All rights reserved.
           </p>
-          
         </div>
       </div>
     </footer>
