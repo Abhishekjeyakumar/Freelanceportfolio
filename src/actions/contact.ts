@@ -87,7 +87,7 @@ export async function submitContact(data: ContactFormData) {
             <p>Thanks for reaching out. I've received your project enquiry and will get back to you soon.</p>
             <br/>
             <p>Best regards,</p>
-            <p>Alex Dev</p>
+            <p>Abhi Dev</p>
           `
         });
       } else {
