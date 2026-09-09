@@ -41,14 +41,13 @@ export function Footer() {
             </ul>
           </div>
         </div>
-        
+      
         <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between">
+          
           <p className="text-gray-500 text-sm">
             © {currentYear} {portfolioData.personalInfo.name}. All rights reserved.
           </p>
-          <div className="mt-4 md:mt-0">
-            <span className="text-gray-600 text-sm">Built with Next.js & Tailwind CSS</span>
-          </div>
+          
         </div>
       </div>
     </footer>

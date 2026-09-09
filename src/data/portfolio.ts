@@ -7,7 +7,7 @@ export const portfolioData = {
       "AI-powered applications, automation systems, web platforms and custom software built for startups, businesses and individuals.",
     about:
       "I am an AI Engineer specializing in Generative AI, LLM applications, RAG, and AI automation. I bridge the gap between cutting-edge AI models and production-ready full-stack applications. Whether you need an intelligent chatbot, an autonomous agent, or a scalable web platform, I build solutions that deliver real business value.",
-    email: "contact@example.com",
+    email: "kjabhishek809@gmail.com",
     availability: "Available for freelance projects",
   },
   socialLinks: {
