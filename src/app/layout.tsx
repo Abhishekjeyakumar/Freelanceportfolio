@@ -14,8 +14,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "[Name] — AI Developer & Freelance Software Engineer",
-  description: "I build AI-powered applications, intelligent automation systems, web platforms and mobile apps for businesses, startups and individuals.",
+  title: "Lakshmi Priya A — Artificial Intelligence Engineer | Generative AI & LLM Systems",
+  description:
+    "Portfolio of Lakshmi Priya A, Artificial Intelligence Engineer specializing in Generative AI, RAG pipelines, MCP-based and LangGraph AI agents, and prompt-engineered chatbots.",
+  keywords: [
+    "Lakshmi Priya A",
+    "Artificial Intelligence Engineer",
+    "Generative AI",
+    "LangGraph",
+    "LangChain",
+    "RAG",
+    "FastMCP",
+    "Python AI Developer",
+    "Infosys Springboard AI Intern",
+  ],
+  authors: [{ name: "Lakshmi Priya A" }],
+  openGraph: {
+    title: "Lakshmi Priya A — Artificial Intelligence Engineer",
+    description: "Building Generative AI applications, RAG pipelines, and autonomous AI agents.",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
